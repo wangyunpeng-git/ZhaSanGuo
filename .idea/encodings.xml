@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/zhasanguo/activity/LoginActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/zhasanguo/activity/SchemaActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/appimage.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/appimage.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/btn_duizhanmoshi_n.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/btn_duizhanmoshi_s.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/btn_renwujieshao_n.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/btn_renwujieshao_s.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/btn_shoujidenglu_n.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/btn_shoujidenglu_s.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/btn_weixindenglu_n.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/btn_weixindenglu_s.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/duizhanmoshi_button_select.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/renweujieshao_button_select.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/return_button_select.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/return_n.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/return_s.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/shouji_button_select.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/sp.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/sp_background.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/touxiangbiankuang.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/touxiangbiaozhun.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/weixin_button_select.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_schema.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/login_item.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/schema_item.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/schema_person_id_item.xml" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
